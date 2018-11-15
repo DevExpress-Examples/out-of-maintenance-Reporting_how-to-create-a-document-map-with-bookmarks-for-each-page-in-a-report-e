@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraReport1.cs](./CS/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/XtraReport1.vb))
+<!-- default file list end -->
 # How to create a Document Map with bookmarks for each page in a report
 
 
